@@ -1,0 +1,12 @@
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\bin\Debug\netcoreapp3.1\PTS.BLL.deps.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\bin\Debug\netcoreapp3.1\PTS.BLL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\bin\Debug\netcoreapp3.1\PTS.BLL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\bin\Debug\netcoreapp3.1\PTS.DAL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\bin\Debug\netcoreapp3.1\PTS.DAL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\obj\Debug\netcoreapp3.1\PTS.BLL.csprojAssemblyReference.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\obj\Debug\netcoreapp3.1\PTS.BLL.AssemblyInfoInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\obj\Debug\netcoreapp3.1\PTS.BLL.AssemblyInfo.cs
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\obj\Debug\netcoreapp3.1\PTS.BLL.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\obj\Debug\netcoreapp3.1\PTS.BLL.csproj.CopyComplete
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\obj\Debug\netcoreapp3.1\PTS.BLL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\ProductivityTrackingSystem_Project\ProductivityTrackingSystem\PTS.BLL\obj\Debug\netcoreapp3.1\PTS.BLL.pdb
